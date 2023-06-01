@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jonathan20dev
-- 👀 I’m interested in Frontend technologies, mainly React.
+- 👀 I’m interested in Backend, Frontend and Cloud technologies.
 - 🌱 I’m currently in my last year of university at TEC | Tecnológico de Costa Rica.
 - 💞️ I’m looking to collaborate on many projects.
 - 📫 How to reach me jonathan20.dev@gmail.com.
